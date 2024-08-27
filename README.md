@@ -23,6 +23,8 @@ The ensemble model leverages the strengths of different architectures to better 
 
 Authors : Martin Martuccio - Samuele Pellegrini
 
+Presentation : [Presentation Link](results/Presentation.pdf)
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python: 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)
