@@ -21,7 +21,10 @@ The ensemble model leverages the strengths of different architectures to better 
 - /results/: Contains graphs, tables and all elements used to measure the performance for our models.
 - README.md: This file, providing an overview and instructions for the project.
 
-Authors : Martin Martuccio - Samuele Pellegrini
+## Authors
+
+- [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
+- [Samuele Pellegrini](https://github.com/PSamK) - Project Author
 
 Presentation : [Presentation Link](results/Presentation.pdf)
 
